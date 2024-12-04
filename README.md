@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://lnkd.in/g4Y5na8f)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDk2OTIyNGEtNjg0Mi00YzRlLWFlOTAtNzY1YTc3ODE2Y2IzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tools Used
 
