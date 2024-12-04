@@ -119,7 +119,7 @@ In Home view, all the views button will be available. User will land on specific
 - Stakeholder Request
 - Support
 
-you can find the full report file here : [Report](https://lnkd.in/dBD638za)
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiZDk2OTIyNGEtNjg0Mi00YzRlLWFlOTAtNzY1YTc3ODE2Y2IzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Project Outcome
